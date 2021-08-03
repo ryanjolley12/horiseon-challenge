@@ -69,6 +69,8 @@ p {
     color: #ffffff;
 }
 
+/* This is for the section articles  */
+
 .services img {
     max-height: 200px;
     float: left;
@@ -99,6 +101,9 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* Lead Generation, Brand Awareness, and Cost Management Subheaders */
+
 .subhead {
     color: #ffffff
 }
@@ -125,6 +130,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
